@@ -8,9 +8,7 @@
 ![GitHub-Mark-120px-plus](https://user-images.githubusercontent.com/55174696/136914979-49b8cc7c-7bf5-45d2-ba57-1e1f29b6742a.png)
 ![GitHub-Mark-64px](https://user-images.githubusercontent.com/55174696/136914884-f63451a2-3fd7-400b-b27d-ae43b9291903.png)
 ![GitHub-Mark-32px](https://user-images.githubusercontent.com/55174696/136915014-f4da1a37-e449-4516-a5bd-0142001ba7c7.png)
-![GitHub-Mark-120px-plus](https://user-images.githubusercontent.com/55174696/136914979-49b8cc7c-7bf5-45d2-ba57-1e1f29b6742a.png)
-![GitHub-Mark-64px](https://user-images.githubusercontent.com/55174696/136914884-f63451a2-3fd7-400b-b27d-ae43b9291903.png)
-![GitHub-Mark-32px](https://user-images.githubusercontent.com/55174696/136915014-f4da1a37-e449-4516-a5bd-0142001ba7c7.png)
+
 
 - 👋 Hello, I’m Noriko Kono
 - 👀 I’m interested in coding.
