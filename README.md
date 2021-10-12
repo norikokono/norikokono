@@ -1,7 +1,7 @@
+![GitHub_Logo_adobespark](https://user-images.githubusercontent.com/55174696/137001002-fa07fbce-69bc-4b93-85f8-214f508f0480.png)
 
 
-
-
+![Octocat_adobespark (2)](https://user-images.githubusercontent.com/55174696/137000571-35ce4384-3092-4bb6-b0ac-3ad65407136c.png)
 
 ![GitHub-Mark-120px-plus](https://user-images.githubusercontent.com/55174696/136914979-49b8cc7c-7bf5-45d2-ba57-1e1f29b6742a.png)
 ![GitHub-Mark-64px](https://user-images.githubusercontent.com/55174696/136914884-f63451a2-3fd7-400b-b27d-ae43b9291903.png)
@@ -20,9 +20,6 @@
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
   <a href="https://giphy.com/gifs/internet-netscape-anjRJ4nv9WJzO" target="_blank" rel="noopener noreferrer">via GIPHY</a>
-
-
-![Octocat_adobespark (1)](https://user-images.githubusercontent.com/55174696/137000010-049463d7-f5f2-493c-86dd-ff55b2394549.png)
 
 ![screencapture-react-practice-javascript-and-i-netlify-app-fizz-buzz-2021-06-01-00_38_24](https://user-images.githubusercontent.com/55174696/120286322-f658b100-c272-11eb-9f31-c7d94de3b61d.png)
 https://react-practice-javascript-and-i.netlify.app/
