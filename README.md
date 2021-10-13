@@ -1,4 +1,3 @@
-My     
 ![GitHub_Logo_adobespark (1)](https://user-images.githubusercontent.com/55174696/137061640-69a5dfe0-9564-4cdb-a48f-a9f2a8287e1e.png)
 
 
@@ -18,7 +17,7 @@ My
 
 - 💖 Hello, I’m an aspiring Web Developer.❤️
 - 🎀 I’m currently learning coding.
-- 💌 How to reach me: https://www.linkedin.com/in/noriko-kono/
+- 💌 How to reach me: https://www.linkedin.com/in/noriko-kono/ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noriko-kono/)
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
   <a href="https://giphy.com/gifs/internet-netscape-anjRJ4nv9WJzO" target="_blank" rel="noopener noreferrer">via GIPHY</a>
