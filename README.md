@@ -16,7 +16,7 @@ My
 ![GitHub-Mark-32px](https://user-images.githubusercontent.com/55174696/136915014-f4da1a37-e449-4516-a5bd-0142001ba7c7.png)
 
 
-- 💖 Hello, I’m an aspiring Web Developer.🦸‍♀️
+- 💖 Hello, I’m an aspiring Web Developer.❤️
 - 🎀 I’m currently learning coding.
 - 💌 How to reach me: https://www.linkedin.com/in/noriko-kono/
 
