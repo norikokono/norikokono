@@ -17,7 +17,8 @@
 
 - 💖 Hello, I’m an aspiring Web Developer.❤️
 - 🎀 I’m currently learning coding.
-- 💌 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noriko-kono/)
+ 
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noriko-kono/)
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
   <a href="https://giphy.com/gifs/internet-netscape-anjRJ4nv9WJzO" target="_blank" rel="noopener noreferrer">via GIPHY</a>
