@@ -43,4 +43,5 @@ norikokono/norikokono is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Nyan Cat GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR2YTE0a3doNWh3YTNqOGlmeTZrZmx6NXI4bnZyb2tuaXloajVjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
+![Octocat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW54Y2dyOTlhczB0bDc2amhjcDYwdjhzMWdkaTM5eTQ0aG9mbTV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif)
 ![Clippy GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNwNjhsdDhhYm5iaGp6NXNiZmkxYzNnaHU5cXdlYnkzb3hpOWxpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13V60VgE2ED7oc/giphy.gif)
