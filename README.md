@@ -22,17 +22,25 @@
 
 ## About Me 🎀
 
-- 👋 Hi there! I’m an aspiring **Machine Learning / AI Developer**.
-- 🚀 Currently on an exciting journey to learn and master **coding**.
-- 🔍 Exploring new technologies, algorithms, and AI innovations.
-- 💡 Passionate about solving real-world problems with data and automation.
+👋 **Hello, world!** I’m an aspiring **Machine Learning / AI Developer**.  
+- 🎓 Currently on an exciting journey to learn and master **coding**.  
+- 🧠 Exploring new technologies, algorithms, and AI innovations.  
+- 🔬 Passionate about solving real-world problems with data and automation.  
+- 📌 Always curious and eager to push boundaries in AI.  
+- 🚀 Looking forward to building impactful projects!  
 
-Stay tuned for my projects and learning milestones! ✨
- 
+🌍 Stay tuned for my adventures in tech and beyond! ✨  
+
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noriko-kono/)
+
+<br>
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
   <a href="https://giphy.com/gifs/internet-netscape-anjRJ4nv9WJzO" target="_blank" rel="noopener noreferrer">via GIPHY</a>
+
+
+![Google Python](https://github.com/user-attachments/assets/240c681d-4a99-41b9-8c12-aff4cc4cc0e6)
+
 
 ![screencapture-react-practice-javascript-and-i-netlify-app-fizz-buzz-2021-06-01-00_38_24](https://user-images.githubusercontent.com/55174696/120286322-f658b100-c272-11eb-9f31-c7d94de3b61d.png)
 https://react-practice-javascript-and-i.netlify.app/
@@ -43,5 +51,5 @@ norikokono/norikokono is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Nyan Cat GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR2YTE0a3doNWh3YTNqOGlmeTZrZmx6NXI4bnZyb2tuaXloajVjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
-![Octocat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW54Y2dyOTlhczB0bDc2amhjcDYwdjhzMWdkaTM5eTQ0aG9mbTV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjNGFtcG54MTlkZWMwMGJtMjBxeTRjZ2toY3djaWFwbnJxNGJtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U2LqsKYUCXCZp5u2jP/giphy.gif" width="150">
 ![Clippy GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNwNjhsdDhhYm5iaGp6NXNiZmkxYzNnaHU5cXdlYnkzb3hpOWxpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13V60VgE2ED7oc/giphy.gif)
