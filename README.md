@@ -36,8 +36,8 @@
 <br>
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
-  <a href="https://giphy.com/gifs/internet-netscape-anjRJ4nv9WJzO" target="_blank" rel="noopener noreferrer">via GIPHY</a>
 
+![Internet](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcm1zMGVva2hvNXNnZXViZ3dycmg0MWV1cXY5dzE5ejI3M3NtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWkuGmMgphvmE/giphy.gif)
 
 ![Google Python](https://github.com/user-attachments/assets/240c681d-4a99-41b9-8c12-aff4cc4cc0e6)
 
