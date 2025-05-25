@@ -37,8 +37,6 @@
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
 
-![Internet](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcm1zMGVva2hvNXNnZXViZ3dycmg0MWV1cXY5dzE5ejI3M3NtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWkuGmMgphvmE/giphy.gif)
-
 ![Google Python](https://github.com/user-attachments/assets/240c681d-4a99-41b9-8c12-aff4cc4cc0e6)
 
 
@@ -53,3 +51,5 @@ You can click the Preview link to take a look at your changes.
 ![Nyan Cat GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR2YTE0a3doNWh3YTNqOGlmeTZrZmx6NXI4bnZyb2tuaXloajVjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjNGFtcG54MTlkZWMwMGJtMjBxeTRjZ2toY3djaWFwbnJxNGJtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U2LqsKYUCXCZp5u2jP/giphy.gif" width="150">
 ![Clippy GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNwNjhsdDhhYm5iaGp6NXNiZmkxYzNnaHU5cXdlYnkzb3hpOWxpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13V60VgE2ED7oc/giphy.gif)
+
+![Internet](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcm1zMGVva2hvNXNnZXViZ3dycmg0MWV1cXY5dzE5ejI3M3NtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWkuGmMgphvmE/giphy.gif)
