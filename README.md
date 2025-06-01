@@ -32,13 +32,18 @@
 🌍 Stay tuned for my adventures in tech and beyond! ✨  
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noriko-kono/)
-
+ [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/norikokono)
 <br>
 
 ![giphy](https://user-images.githubusercontent.com/55174696/136900096-c50a2dfa-7832-49a1-a604-c54cd3cb285f.gif)  
+<br>
 
 ![Google Python](https://github.com/user-attachments/assets/240c681d-4a99-41b9-8c12-aff4cc4cc0e6)
+<br>
 
+<img src="https://github.com/user-attachments/assets/176e6a18-de47-4c37-9895-3dde8d0fa7c3" width="800"> 
+https://github.com/norikokono/AIPoweredNewsDigest/ 
+<br><br><br><br>
 
 ![screencapture-react-practice-javascript-and-i-netlify-app-fizz-buzz-2021-06-01-00_38_24](https://user-images.githubusercontent.com/55174696/120286322-f658b100-c272-11eb-9f31-c7d94de3b61d.png)
 https://react-practice-javascript-and-i.netlify.app/
