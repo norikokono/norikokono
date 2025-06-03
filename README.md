@@ -42,6 +42,7 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/176e6a18-de47-4c37-9895-3dde8d0fa7c3" width="800"> 
+https://norikokono.github.io/AIPoweredNewsDigest/ <br>
 https://github.com/norikokono/AIPoweredNewsDigest/ 
 <br><br><br><br>
 
