@@ -46,6 +46,11 @@ https://norikokono.github.io/AIPoweredNewsDigest/ <br>
 https://github.com/norikokono/AIPoweredNewsDigest/ 
 <br><br><br><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGFIRhuTDaI?si=CeRzsCzQYCZ_GTK1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Nhncptlp6A?si=nOTZHCmD7RFff4RG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ![screencapture-react-practice-javascript-and-i-netlify-app-fizz-buzz-2021-06-01-00_38_24](https://user-images.githubusercontent.com/55174696/120286322-f658b100-c272-11eb-9f31-c7d94de3b61d.png)
 https://react-practice-javascript-and-i.netlify.app/
 
